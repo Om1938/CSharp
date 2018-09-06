@@ -9,6 +9,9 @@ namespace CSharp1
     {
         static void Main(string[] args)
         {
+            /*
+             * main for array.cs
+             * 
             int n,key;
             Console.WriteLine("Enter Array Size");
             n = Convert.ToInt32(Console.ReadLine());
@@ -19,8 +22,17 @@ namespace CSharp1
 
             Console.Write("Enter the search element : ");
             key = Convert.ToInt32(Console.ReadLine());
-            arr.searchKey(key);
+            arr.searchKey(key);            
+             */
             
+            /*
+             * main for Rectangle.cs
+             */
+            rectangle r = new rectangle();
+            r.len = 4.5;
+            r.wid = 4.5;
+            r.display();
+
             Console.ReadKey();
         }
     }
