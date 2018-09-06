@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2010\Projects\CSharp1BCS126\CSharp1\bin\Debug\CSharp1.exe
+c:\users\user\documents\visual studio 2010\Projects\CSharp1BCS126\CSharp1\bin\Debug\CSharp1.pdb
+c:\users\user\documents\visual studio 2010\Projects\CSharp1BCS126\CSharp1\obj\x86\Debug\CSharp1.exe
+c:\users\user\documents\visual studio 2010\Projects\CSharp1BCS126\CSharp1\obj\x86\Debug\CSharp1.pdb
+C:\Users\user\Desktop\CSharp1BCS126\CSharp1\obj\x86\Debug\CSharp1.exe
+C:\Users\user\Desktop\CSharp1BCS126\CSharp1\obj\x86\Debug\CSharp1.pdb
+C:\Users\user\Documents\GitHub\CSharp\CSharp1BCS126\CSharp1\obj\x86\Debug\CSharp1.exe
+C:\Users\user\Documents\GitHub\CSharp\CSharp1BCS126\CSharp1\obj\x86\Debug\CSharp1.pdb
