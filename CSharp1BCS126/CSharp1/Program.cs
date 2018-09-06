@@ -9,6 +9,7 @@ namespace CSharp1
     {
         static void Main(string[] args)
         {
+            
             /*
              * main for array.cs
              * 
@@ -26,11 +27,18 @@ namespace CSharp1
              */
             
             /*
-             * main for Rectangle.cs
-             */
+             * main for Rectangle.cs for public and internal vars
+             
             rectangle r = new rectangle();
             r.len = 4.5;
             r.wid = 4.5;
+            r.display();
+            */
+            
+            /*
+             * main for Rectangle.cs protected vars
+             */
+            rectangle r = new rectangle(4.5, 4.5);
             r.display();
 
             Console.ReadKey();
