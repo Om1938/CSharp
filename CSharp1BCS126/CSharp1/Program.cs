@@ -25,6 +25,7 @@ namespace CSharp1
             key = Convert.ToInt32(Console.ReadLine());
             arr.searchKey(key);            
              */
+
             
             /*
              * main for Rectangle.cs for public and internal vars
@@ -34,12 +35,29 @@ namespace CSharp1
             r.wid = 4.5;
             r.display();
             */
+
             
             /*
              * main for Rectangle.cs protected vars
-             */
+             
             rectangle r = new rectangle(4.5, 4.5);
             r.display();
+            */
+
+
+            /*
+             * main for Printdata.cs
+             
+            Printdata p = new Printdata();
+            p.print(5);
+            p.print(500.263);
+            p.print("Hello C#");
+            */
+
+            
+            /*
+             * 
+             */
 
             Console.ReadKey();
         }
